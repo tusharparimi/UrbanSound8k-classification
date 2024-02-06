@@ -35,7 +35,7 @@ All result are based on K-fold validation based on the fold provided the dataset
   100Hz and 200Hz,
   1000Hz and 1100Hz,
   10000Hz and 10100 Hz
-- So you should be distinguish 100Hz from 200Hz more cllearly than 10000Hz from 10100 Hz
+- So you should beablle to distinguish 100Hz from 200Hz more clearly than 10000Hz from 10100 Hz.
 - Try it really fun!!! :ok_hand:
 
 ### TODO:
