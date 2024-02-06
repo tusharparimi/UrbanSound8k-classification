@@ -32,11 +32,11 @@ All result are based on K-fold validation based on the fold provided the dataset
 
 - Why use Mel and dB scales. Because we humans are more sensitive to differences in lower frequecies than higher frequencies, aand similarly in differentiating amplitude as well.
 - For instance, if you listened to different pairs of sound as follows:
-  100Hz and 200Hz
-  1000Hz and 1100Hz
+  100Hz and 200Hz,
+  1000Hz and 1100Hz,
   10000Hz and 10100 Hz
-So you should be distinguish 100Hz from 200Hz more cllearly than 10000Hz from 10100 Hz
-Try it really fun!!! :ok_hand:
+- So you should be distinguish 100Hz from 200Hz more cllearly than 10000Hz from 10100 Hz
+- Try it really fun!!! :ok_hand:
 
 ### TODO:
 - Improve the performance of models by playing with some different pre-trained models
